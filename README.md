@@ -59,8 +59,8 @@ If you're running this from a Linux system, ensure you have **sudo** privileges 
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Lalatenduswain/+ScriptName
-cd +ScriptName
+git clone https://github.com/Lalatenduswain/Active-Directory-User-Management-Script/
+cd Active-Directory-User-Management-Script/
 ```
 
 ### Step 2: Prepare the CSV File
