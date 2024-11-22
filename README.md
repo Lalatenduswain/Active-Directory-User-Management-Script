@@ -10,7 +10,7 @@ This repository contains an **Active Directory User Management Script** designed
 
 By automating these processes, this script can save you time and reduce the likelihood of errors that often arise from manual account creation.
 
-**Repository:** [Lalatenduswain/Active-Directory-User-Management-Script](https://github.com/Lalatenduswain/+ScriptName)  
+**Repository:** [Lalatenduswain/Active-Directory-User-Management-Script](https://github.com/Lalatenduswain/Active-Directory-User-Management-Script/)  
 **Author:** [Lalatendu Swain](https://github.com/Lalatenduswain)  
 **Website:** [Blog](https://blog.lalatendu.info/)
 
