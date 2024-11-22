@@ -1,0 +1,6 @@
+FirstName,LastName,UserName,Password,OU,Department
+Harry,Pant,harryp,Pass@123,"CN=Users,DC=hpit,DC=com",Admin
+Training,User1,tuser1,Pass@123,"OU=Training,DC=hpit,DC=com",Training
+Training,User2,tuser2,Pass@123,"OU=Training,DC=hpit,DC=com",Training
+Sales,User1,muser1,Pass@123,"OU=Sales,DC=hpit,DC=com",Marketing
+Sales,User2,muser2,Pass@123,"OU=Sales,DC=hpit,DC=com",Marketing
